@@ -31,7 +31,6 @@
 ---
 
 #### 📫 Contact Me
-- **Email:** [dylan@example.com](mailto:dylan@example.com)
 - **LinkedIn:** [DylanButcher](https://www.linkedin.com/in/dylanbutcher)
 
 
