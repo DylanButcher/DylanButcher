@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**DylanButcher/DylanButcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### 🎓 Education
+- **BSc Mathematics with Data Science (2:1)**  
+    *London School of Economics*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 💼 Work Experience
+- **Incoming Middle Officer**   
+    *Mercuria*
+- **Trading Intern**  
+    *Virtu Financial* (2024)
+- **Trade Ops Intern**  
+    *Equatorial Traders* (2023)
+
+---
+
+#### 🔭 Current Projects
+- TBC
+
+---
+
+#### 🌱 Currently Learning
+- Machine Learning (ST310)
+- AI (ST311)
+- Mathematical Modelling and Simulation (MA324)
+
+---
+
+#### 📫 Contact Me
+- **Email:** [dylan@example.com](mailto:dylan@example.com)
+- **LinkedIn:** [DylanButcher](https://www.linkedin.com/in/dylanbutcher)
+
+
